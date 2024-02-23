@@ -188,7 +188,7 @@ box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 
 #users .uzr.noor1 .u-msg {
 margin-top: 2px;
-   -webkit-text-fill-color: #000;
+   -webkit-text-fill-color: #207A2C;
 margin-left: 5px;
 
   font-size: 89% !important;
@@ -208,7 +208,7 @@ margin-left: 5px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/01/170622758857651.png);
+ background-image: url(https://up6.cc/2024/02/170683297329061.jpg);
 background-size: 100%;
 
     
