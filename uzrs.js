@@ -81,7 +81,7 @@ margin-left: 5px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/01/170622758857651.png);
+ background-image: url(https://up6.cc/2024/01/170622859220941.png);
 background-size: 100%;
 
     
@@ -208,7 +208,7 @@ margin-left: 5px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/01/170622859220941.png);
+ background-image: url(https://up6.cc/2024/01/170622758857651.png);
 background-size: 100%;
 
     
