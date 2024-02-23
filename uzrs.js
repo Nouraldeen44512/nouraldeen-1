@@ -81,7 +81,7 @@ margin-left: 5px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/01/170622859220941.png);
+ background-image: url(https://up6.cc/2024/01/170622758857651.png);
 background-size: 100%;
 
     
@@ -126,20 +126,20 @@ var l_itvnour=setInterval(function(){
 
 
 $("style").last().append(`
-#users .uzr.s3es1 img.co {
+#users .uzr.noor1 img.co {
   width: 0px !important;
     height: 0px !important;
   margin-right: 0px;
 }
 
-#users .uzr.s3ed1 span.uhash{
+#users .uzr.noor1 span.uhash{
     -webkit-text-fill-color: transparent;
 width: 0px !important;
     height: 0px !important;
   margin-right: 0px;}
 
 
-#users .uzr.s3ed1 img.u-ico {
+#users .uzr.noor1 img.u-ico {
 margin-left: 3px;
 
      
@@ -147,7 +147,7 @@ margin-left: 3px;
       
     }
 
-#users .uzr.s3ed1 img.ustat {
+#users .uzr.noor1 img.ustat {
   width: 13px !important;
     height: 13px !important;
     min-height: 0%!important;
@@ -163,7 +163,7 @@ box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
       
     }
 
-#users .uzr.s3ed1 .fitimg.u-pic {
+#users .uzr.noor1 .fitimg.u-pic {
 
   
 
@@ -186,7 +186,7 @@ filter: hue-rotate(360deg);
 box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 
-#users .uzr.s3ed1 .u-msg {
+#users .uzr.noor1 .u-msg {
 margin-top: 2px;
    -webkit-text-fill-color: #000;
 margin-left: 5px;
@@ -199,7 +199,7 @@ margin-left: 5px;
 
 
 
-#users .uzr.s3ed1 {
+#users .uzr.noor1 {
    padding: 0px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
@@ -208,7 +208,7 @@ margin-left: 5px;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/01/170622758857651.png);
+ background-image: url(https://up6.cc/2024/01/170622859220941.png);
 background-size: 100%;
 
     
@@ -216,17 +216,17 @@ background-size: 100%;
 
 
 
-#users .uzr.nour1 .d-flex.fl {
+#users .uzr.noor1 .d-flex.fl {
   padding-right: 0px !important;
 }
 
-#users .uzr.s3ed1 .u-topic {
+#users .uzr.noor1 .u-topic {
 margin-left: 200px;
    -webkit-text-fill-color: #0000!important;
 
 }
 
-#users .uzr.s3ed1 .itarr_s3ed1 {
+#users .uzr.noor1 .itarr_noor1 {
  width: 0px;
 
 margin-top: -5px;
@@ -236,13 +236,13 @@ margin-left: 9px;
 
 }
 `);
-var l_itvnour=setInterval(function(){
+var l_itvnoor=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvnour);
-        $("#users .uzr:contains('نـَوَر')").addClass('s3ed1');
-        $("div#users .uzr.nour1 .My_vedio1").click(function(){
+        $("#users .uzr:contains('نـَوَر')").addClass('noor1');
+        $("div#users .uzr.noor1 .My_vedio1").click(function(){
         $("#movon1").show();
-        $('#movon1').addClass('nour1');
+        $('#movon1').addClass('noor1');
         
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
