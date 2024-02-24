@@ -171,7 +171,7 @@ $("style").last().append(`
 var zizo=setInterval(function(){
     if(myid!=null){
         clearInterval(zizo);
-        $("#users .uzr:contains('𝐑𝐀𝐊𝐀𝐍...')").addClass('stl2');
+        $("#users .uzr:contains('ستُيفُ')").addClass('stl2');
         $("#users .uzr.stl2 .c-flex.fr").append('<img class="My_star1" src="https://i.ibb.co/5G9Ttb7/10.gif">');
 	$("#users .uzr.stl2 .c-flex.fr").append('<img class="My_tsor" src="https://i.ibb.co/ThKHx1N/image.png">');
         $("#users .uzr span.u-topic:contains('𝐑𝐀𝐊𝐀𝐍...')").after('<img id="mystory1" class="My_vedio1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
