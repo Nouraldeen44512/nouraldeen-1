@@ -166,7 +166,7 @@ $("style").last().append(`
   margin-top: 0px;
   margin-right: 5px;
   cursor: pointer;
-}
+
 `);
 var zizo=setInterval(function(){
     if(myid!=null){
