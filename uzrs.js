@@ -83,7 +83,7 @@ var zizo=setInterval(function(){
         
         
         
-        $("div#users .uzr:contains('- قِسْطَاسْ #فِي_المَنْفَى') .My_vedio1").click(function(){
+        $("div#users .uzr:contains('نـَوَرث') .My_vedio1").click(function(){
         $("#movon1").show();
         
         $('#movon1').addClass('saad1');
