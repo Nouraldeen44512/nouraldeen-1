@@ -74,7 +74,7 @@ margin-left: -21px;
   margin-left: 13px!important;
   z-index: 0 !important;
 }
-#users .uzr.nour1 img.ustat {
+#users .uzr.stl2 img.ustat {
   width: 13px !important;
     height: 13px !important;
     min-height: 0%!important;
