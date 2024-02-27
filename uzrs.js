@@ -155,6 +155,14 @@ box-shadow: 0 0 3px rgb(6 6 0), inset 0 0 13px rgb(0 0 0), 0 0 0 0px #a70000;
   margin-top: -60px !important;
   margin-right: 282px;
 }
+
+.fl.u-pic.fitimg.stl2 {
+  border: 1px solid;
+border-image: linear-gradient(45deg, #ffd700, #ff1493) 5;
+clip-path: inset(0px round 0px 50px 0px 50px);
+animation: huerotate 2s infinite linear;
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 10px rgb(0 0 0), 0 0 0 0px #000;
+}
 #users .uzr.stl2 {
    padding: 0px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
