@@ -168,7 +168,7 @@ box-shadow: 0 0 3px rgb(6 6 0), inset 0 0 13px rgb(0 0 0), 0 0 0 0px #a70000;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/01/170622758857651.png);
+ background-image: url(https://up6.cc/2024/02/170902250219281.gif);
 background-size: 100%;
 }
 
