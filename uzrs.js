@@ -111,26 +111,28 @@ box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
       
     }
 
-#users.stl2 .uzr .fitimg.u-pic {
-height: 52px !important;
-border: 1px solid;
-border-radius: 0 10px 0 10px;
-filter: hue-rotate(360deg);
-box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
-margin-top: 2px;
-margin-right: 2px;
-}
-#users.stl2 .fitimg.u-pic {
-border: 1px solid;
-border-radius: 0 10px 0 10px;
-box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
-margin-top: 2px;
-margin-right: 2px;
-border-radius: 0 10px 0 10px;
-margin-left: -12px;
-height: 52px;
-}
+#users .uzr.stl2 .fitimg.u-pic {
 
+  
+
+
+  z-index: 0 !important;
+
+height: 52px !important;
+
+ 
+margin-bottom: 4px !important;
+margin-top: 3px !important;
+border-radius: 100px;
+margin-left: -10px;
+
+padding: 26px !important;
+border:1px solid #fbfcfc;margin-top:1px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000
+filter: hue-rotate(360deg);
+box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+}
 
 
 #users .uzr.stl2 {
