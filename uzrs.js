@@ -111,6 +111,15 @@ box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
       
     }
 
+#d2.stl2 .uzr .fitimg.u-pic {
+height: 52px !important;
+border: 1px solid;
+border-radius: 0 10px 0 10px;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+margin-top: 2px;
+margin-right: 2px;
+}
 #users.stl2 .fitimg.u-pic {
 border: 1px solid;
 border-radius: 0 10px 0 10px;
