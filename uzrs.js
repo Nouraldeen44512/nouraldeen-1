@@ -74,10 +74,12 @@ margin-left: -21px;
 }
 
 #users .uzr.stl2 span.uhash{
-    -webkit-text-fill-color: transparent;
+-webkit-text-fill-color: transparent;
 width: 0px !important;
-    height: 0px !important;
+height: 0px !important;
   margin-right: 0px;}
+#users .uzr.stl2 img.u-ico {
+margin-left: 3px;
 }
 #users .uzr.stl2 .u-msg {
   text-align: center;
@@ -89,36 +91,35 @@ width: 0px !important;
   color: transparent !important;
   background-size: 90% 100%;
 }
-#users .uzr.stl2 .ustat {
-  width: 54px !important;
-  border-radius: 0px 50px 50px 50px !important;
-  height: 52px !important;
-  margin-top: 5px !important;
-  min-height: 0% !important;
-  margin-left: 10px;
-  z-index: 0 !important;
-  display: none;
+#users .uzr.stl2 .u-msg {
+margin-top: 2px;
+   -webkit-text-fill-color: #000;
+margin-left: 5px;
+
+  font-size: 89% !important;
+
 }
-#users .uzr.stl2 span.uhash {
-  margin-right: 324px;
-  margin-top: 24px;
-  margin-left: 0px;
-}
-#users .uzr.stl2 img.co {
-  transform: rotate(90deg);
-  margin-top: -60px !important;
-  margin-right: 282px;
-}
+
+
+
+
+
 #users .uzr.stl2 {
    padding: 0px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
    border-radius: 0px 10px 0px 10px;
-  border: 1px solid #fff;
- background-image: url(https://up6.cc/2024/02/170900279256391.gif);
-background-size: 100%;
-
+   
+}
+#users .uzr.stl2 {
+border: 1px solid #b77c9a;
+margin-bottom: 3px !important;
+margin-top: 2px !important;
+border-radius: 4px;
+background-image: url(https://up6.cc/2024/02/170900279256391.gif);
+background-size: cover;
+box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 5px rgb(255, 255, 255), 0 0 0 0px #000;
 }
 
 #users .uzr.stl2 .c-flex.fr {
@@ -149,4 +150,5 @@ background-size: 100%;
   margin-right: 5px;
   cursor: pointer;
 }
+
 `);var zizo=setInterval(function(){null!=myid&&(clearInterval(zizo),$("#users .uzr:contains('\u0646\u0640\u064E\u0648\u064E\u0631\u062B')").addClass("stl2"),$("#users .uzr span.u-topic:contains('\u0646\u0640\u064E\u0648\u064E\u0631\u062B')").after("<img id=\"mystory1\" class=\"My_vedio1\" title=\"\u0633\u062A\u0648\u0631\u064A\" src=\"https://i.ibb.co/47VS4nY/image.png\">"),$("#users .uzr.stl2 span.uhash, #users .uzr.stl2 img.co").hide(),$("#upro").before("<div id=\"movon1\" onclick=\"$(this).hide().html(``);\" class=\"moveon1\" style=\"display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);\">"),$("div#users .uzr:contains('\u0646\u0640\u064E\u0648\u064E\u0631\u062B') .My_vedio1").click(function(){$("#movon1").show(),$("#movon1").addClass("stl2"),$("#movon1").before("<div class=\"modal-dialog fr break\" style=\"height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;\"></div>"),$("#movon1").append("<div style=\"max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;\" class=\"modal-header label-primary\"><span class=\"pull-right clickable badge\"><i class=\"fa fa-times\"></i></span><label style=\"margin:1px; float: right;\" > My vedio </label></div>"),$("#movon1").append("<iframe id=\"ifr_mov1\" style=\"max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;\" class=\"modal in\" role=\"dialog\" style=\"z-index: 2100; display: none; style=\"max-width:240px;\" src=\"https://www.youtube.com/embed/5bK8Hd2KAbM\" allowfullscreen=\"\" width=\"338\" height=\"490\" frameborder=\"0\"></iframe>"),$("#ifr_mov1").show(function(){$("#upro").modal("hide")})}))},1e4);
