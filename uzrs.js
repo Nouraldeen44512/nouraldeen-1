@@ -89,7 +89,23 @@ margin-left: -21px;
   color: transparent !important;
   background-size: 90% 100%;
 }
-#users .uzr.stl2 .fitimg.u-pic {
+#users .uzr.nour1 img.ustat {
+  width: 13px !important;
+    height: 13px !important;
+    min-height: 0%!important;
+    margin-right: 0;
+    z-index: 999999;
+    border-radius: 0px 5px 0px 5px;
+    margin-left: 1px;
+    margin-top: 1px;
+    border: 1px solid #fff;
+    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
+box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
+      
+      
+    }
+
+#users .uzr.nour1 .fitimg.u-pic {
 
   
 
@@ -111,7 +127,6 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000
 filter: hue-rotate(360deg);
 box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
-
 #users .uzr.stl2 .fitimg.u-pic {
 
   
