@@ -88,8 +88,8 @@ margin-left: 3px;
 #users .uzr.stl2 .u-msg {
   text-align: center;
   -webkit-background-clip: text;
-  padding: 1px !important;
-  font-size: 89% !important;
+  padding: 5px !important;
+  font-size: 106% !important;
   -webkit-text-fill-color: #0000;
   background-image: url(https://up6.cc/2024/02/170899253237771.gif);
   color: transparent !important;
