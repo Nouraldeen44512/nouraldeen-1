@@ -159,7 +159,7 @@ box-shadow: 0 0 3px rgb(6 6 0), inset 0 0 13px rgb(0 0 0), 0 0 0 0px #a70000;
   margin-top: -60px !important;
   margin-right: 282px;
 }
-#users .uzr.nour1 {
+#users .uzr.stl2 {
    padding: 0px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
