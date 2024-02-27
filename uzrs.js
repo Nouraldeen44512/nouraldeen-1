@@ -136,7 +136,7 @@ box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 
 
 #users .uzr.stl2 {
-   padding: 0px !important;
+   padding: 3px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
   margin-bottom: 3px !important;
   margin-top: 2px !important;
