@@ -91,19 +91,6 @@ margin-left: 3px;
   color: transparent !important;
   background-size: 90% 100%;
 }
-#users .uzr.stl2 .u-msg {
-margin-top: 2px;
-   -webkit-text-fill-color: #000;
-margin-left: 5px;
-
-  font-size: 89% !important;
-
-}
-
-
-
-
-
 #users .uzr.stl2 {
    padding: 0px !important;
   box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
@@ -121,7 +108,28 @@ background-image: url(https://up6.cc/2024/02/170900279256391.gif);
 background-size: cover;
 box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 5px rgb(255, 255, 255), 0 0 0 0px #000;
 }
+#users .uzr.stl2 .fitimg.u-pic {
 
+  
+
+
+  z-index: 0 !important;
+
+height: 52px !important;
+
+ 
+margin-bottom: 4px !important;
+margin-top: 3px !important;
+border-radius: 100px;
+margin-left: -10px;
+
+padding: 26px !important;
+border:1px solid #fbfcfc;margin-top:1px;
+
+box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 3px #000
+filter: hue-rotate(360deg);
+box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+}
 #users .uzr.stl2 .c-flex.fr {
   margin-left: -4px!important;
   float: left;
