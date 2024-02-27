@@ -104,7 +104,7 @@ margin-left: -21px;
       
     }
 
-#d2.stl2 .uzr .fitimg.u-pic {
+#users.stl2 .uzr .fitimg.u-pic {
 height: 52px !important;
 border: 1px solid;
 border-radius: 0 10px 0 10px;
@@ -123,7 +123,7 @@ border-radius: 0 10px 0 10px;
 margin-left: -12px;
 height: 52px;
 }
-#users .uzr.stl2 .fitimg.u-pic {
+#users.uzr.stl2 .fitimg.u-pic {
 
   
 
@@ -156,7 +156,7 @@ box-shadow: 0 0 3px rgb(6 6 0), inset 0 0 13px rgb(0 0 0), 0 0 0 0px #a70000;
   margin-right: 282px;
 }
 
-.fl.u-pic.fitimg.stl2 {
+#users.u-pic.fitimg.stl2 {
   border: 1px solid;
 border-image: linear-gradient(45deg, #ffd700, #ff1493) 5;
 clip-path: inset(0px round 0px 50px 0px 50px);
