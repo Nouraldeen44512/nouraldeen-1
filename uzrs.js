@@ -74,6 +74,23 @@ margin-left: -21px;
   margin-left: 13px!important;
   z-index: 0 !important;
 }
+#users .uzr.nour1 img.ustat {
+  width: 13px !important;
+    height: 13px !important;
+    min-height: 0%!important;
+    margin-right: 0;
+    z-index: 999999;
+    border-radius: 0px 5px 0px 5px;
+    margin-left: 1px;
+    margin-top: 1px;
+    border: 1px solid #fff;
+    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
+box-shadow: 0 0 3px rgb(0, 0, 0), inset 0 0 4px rgb(0, 0, 0), 0 0 0 0px #000;
+      
+      
+
+
+}
 #users .uzr.stl2 .d-flex.dots {
   margin-top: 7px !important;
   margin-left: 5px;
