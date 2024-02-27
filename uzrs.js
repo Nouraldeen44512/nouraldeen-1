@@ -74,13 +74,20 @@ margin-left: -21px;
 }
 
 #users .uzr.stl2 span.uhash{
--webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
 width: 0px !important;
-height: 0px !important;
+    height: 0px !important;
   margin-right: 0px;}
+
+
 #users .uzr.stl2 img.u-ico {
 margin-left: 3px;
-}
+
+     
+
+      
+    }
+
 #users .uzr.stl2 .u-msg {
   text-align: center;
   -webkit-background-clip: text;
@@ -90,15 +97,10 @@ margin-left: 3px;
   background-image: url(https://up6.cc/2024/02/170899253237771.gif);
   color: transparent !important;
   background-size: 90% 100%;
-}
-#users .uzr.stl2 {
-   padding: 0px !important;
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-   border-radius: 0px 10px 0px 10px;
-   
-}
+      
+      
+    }
+
 #users .uzr.stl2 .fitimg.u-pic {
 
   
@@ -123,41 +125,39 @@ box-shadow: 0 0 3px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 
 #users .uzr.stl2 {
-border: 1px solid #b77c9a;
-margin-bottom: 3px !important;
-margin-top: 2px !important;
-border-radius: 4px;
-background-image: url(https://up6.cc/2024/02/170900279256391.gif);
-background-size: cover;
-box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 5px rgb(255, 255, 255), 0 0 0 0px #000;
+   padding: 0px !important;
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+   border-radius: 0px 10px 0px 10px;
+   
+  
+  border: 1px solid #fff;
+ background-image: url(https://up6.cc/2024/02/170900279256391.gif);
+background-size: 100%;
+
+    
 }
 
-#users .uzr.stl2 .c-flex.fr {
-  margin-left: -4px!important;
-  float: left;
-}
+
+
 #users .uzr.stl2 .d-flex.fl {
   padding-right: 0px !important;
 }
-#users .uzr.stl2 .u-topic {
-  margin-left: 5px;
-}
-#users .uzr.stl2 .My_vedio1 {
-  padding-right: 0px !important;
-}
 
-#users .uzr.stl2 .My_vedio1 {
+#users .uzr.nour1 .u-topic {
 margin-left: 200px;
    -webkit-text-fill-color: #0000!important;
 
 }
 
-#users .uzr.stl2 .My_vedio1 {
+#users .uzr.stl2 .itarr_stl2 {
  width: 0px;
 
 margin-top: -5px;
 cursor: pointer;
 margin-left: 9px;
+
 
 }
 
